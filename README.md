@@ -9,7 +9,7 @@
 
 👨‍🎓 Slowly building my carrer.
 
-📘 Interested in Remote Sensing based analysis of natural hazards and disasters.
+📘 Interested in Non-optical remote sensing based analysis of natural hazards and disasters.
 
 
 📫 Reach me @ <a href ="https://www.linkedin.com/in/nitheyznirmal/"> Linkedin </a> | <a href ="https://twitter.com/nitheshnirmal"> Twitter </a> 
