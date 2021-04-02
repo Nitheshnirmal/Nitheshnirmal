@@ -1,4 +1,4 @@
-### Hi there 👋!! I'm Nithesh
+### Hi there 👋!! I'm Nithesh :smiley:
 
 <!--
 **Nitheshnirmal/Nitheshnirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
