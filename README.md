@@ -1,8 +1,8 @@
 ### Hi there 👋!! I'm Nithesh :smiley:
 
-🌐 Basically I'm a *Geographer*.
+🌐 Basically I'm a *Geographer*. I have completed my master of science in Geography in 2019 at Bharathidasan University, India.
 
-🔭 I’m currently doing my secong master's course in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ with a specialization in __Natural Hazards amd Disaster Risk Reduction__.
+🔭 I’m currently doing my second master's course in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ with a specialization in __Natural Hazards amd Disaster Risk Reduction__.
 
 🌱 I’m currently learning R, Python and Java Script.
 
