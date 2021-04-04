@@ -7,7 +7,7 @@
 🌱 I’m currently learning R, Python and Java Script.
 
 
-👨‍🎓 Slowly building my carrer.
+👨‍🎓 Slowly building my career.
 
 📘 Interested in Non-optical remote sensing based analysis of natural hazards and disasters.
 
