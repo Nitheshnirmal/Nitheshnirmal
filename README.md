@@ -4,11 +4,6 @@
 
 🔭 I’m currently doing my second master's course in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ with a specialization in __Natural Hazards amd Disaster Risk Reduction__.
 
-🌱 I’m currently learning R, Python and Java Script.
-
-
-👨‍🎓 Slowly building my career.
-
 📘 Interested in Non-optical remote sensing based analysis of natural hazards and disasters.
 
 
