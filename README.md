@@ -6,7 +6,7 @@
 
 🎓 I've completed my M.Sc. in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ (*University of Twente*) with a specialization in __Natural Hazards amd Disaster Risk Reduction__. I've another M.Sc. in Geography from India.
 
-📘 Currently working majorily on the hydrological applications of microwave remote sensing! I will be also using machine learning and deep learning algorithms for the same.
+📘 Working on the hydrological applications of microwave remote sensing! I will be also using machine learning and deep learning algorithms for the same.
 
 🌱 I’m currently learning Advanced Groundwater Hydrology and Advanced Machine Learning!
 
