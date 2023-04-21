@@ -1,15 +1,18 @@
 ### Hi there 👋!! I'm Nithesh :smiley:
 
-🌐 Basically I'm a *Geographer*.
+🌐 Basically I'm a *Geographer* and *Earth Observation Engineer*
 
-🔭 I’m currently doing my second master's course in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ with a specialization in __Natural Hazards amd Disaster Risk Reduction__.
+🔭 I’m currently a PhD student at the Department of Geosciences, Virginia Tech, Blacksburg, VA, USA
 
-📘 Interested in Non-optical remote sensing based analysis of natural hazards and disasters.
+🎓 I've completed my M.Sc. in __Geo-Information Science and Earth Observation__ at __Faculty of ITC__ (*University of Twente*) with a specialization in __Natural Hazards amd Disaster Risk Reduction__. I've another M.Sc. in Geography from India.
 
+📘 Currently working majorily on the hydrological applications of microwave remote sensing! I will be also using machine learning and deep learning algorithms for the same.
+
+🌱 I’m currently learning Advanced Groundwater Hydrology and Advanced Machine Learning!
+
+🆓 I love to work and collaborate on landslides especially deep seated gravitational slope deformations!
 
 📫 Reach me @ <a href ="https://www.linkedin.com/in/nitheyznirmal/"> Linkedin </a> | <a href ="https://twitter.com/nitheshnirmal"> Twitter </a> 
-
-
 
 <!--
 **Nitheshnirmal/Nitheshnirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
