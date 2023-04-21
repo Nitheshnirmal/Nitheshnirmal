@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning Advanced Groundwater Hydrology and Advanced Machine Learning!
 
-🆓 I love to work and collaborate on landslides especially deep seated gravitational slope deformations!
+🆓 I love to work and collaborate on landslides related projects especially deep seated gravitational slope deformations!
 
 📫 Reach me @ <a href ="https://www.linkedin.com/in/nitheyznirmal/"> Linkedin </a> | <a href ="https://twitter.com/nitheshnirmal"> Twitter </a> 
 
